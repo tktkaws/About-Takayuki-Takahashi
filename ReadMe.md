@@ -27,3 +27,10 @@ snsで評判の良いSESがあればそこも受ける。
 - vue.jsのポートフォリオも作成する
 - qiitaに記事を上げる
 - マインドマップを作成
+
+wantedly
+https://www.wantedly.com/users/113160879
+
+github - profile
+https://github.com/tktkaws
+
