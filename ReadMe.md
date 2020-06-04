@@ -1,4 +1,4 @@
-## About-Takayuki-Takahashi
+## :blush: About-Takayuki-Takahashi :blush:
 ##### 自己紹介するためのリポジトリ
 強み
 弱み
