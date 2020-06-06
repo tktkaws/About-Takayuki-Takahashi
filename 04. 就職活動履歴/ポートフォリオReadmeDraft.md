@@ -1,9 +1,7 @@
 ## [RADIO SORT](https://radio-sort.xyz/)
 ##### ドラッグ&ドロップでラジオ番組に順位をつけるアプリ https://radio-sort.xyz/
 
-<img src="https://user-images.githubusercontent.com/53632056/83470954-639a0080-a4be-11ea-9ab7-ca54cae263c0.gif" width="30%">
-<img src="https://user-images.githubusercontent.com/53632056/83470938-5d0b8900-a4be-11ea-8495-1df7e60e7ded.png" width="30%">
-<img src="https://user-images.githubusercontent.com/53632056/83470947-6137a680-a4be-11ea-9290-b50d57db6079.png" width="30%">
+<img src="https://user-images.githubusercontent.com/53632056/83470954-639a0080-a4be-11ea-9ab7-ca54cae263c0.gif" width="20%"><img src="https://user-images.githubusercontent.com/53632056/83470938-5d0b8900-a4be-11ea-8495-1df7e60e7ded.png" width="20%"><img src="https://user-images.githubusercontent.com/53632056/83470947-6137a680-a4be-11ea-9290-b50d57db6079.png" width="20%">
 <img src="" width="30%">
 
 ## 機能
